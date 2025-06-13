@@ -4,7 +4,7 @@ This project analyzes healthcare costs related to chest pain diagnoses across di
 
 ## Dataset
 
-- The data comes from Codecademy (healthcare.csv).
+- The data comes from Codecademy (`healthcare.csv`).
 - Focus is on the diagnosis code related to chest pain (`DRG Definition` = '313 - CHEST PAIN').
 
 ## Tools Used
