@@ -1,4 +1,4 @@
-# Healthcare in Diffrent States
+# Healthcare in Different States
 
 This project analyzes healthcare costs related to chest pain diagnoses across different US states. Using a hospital charges dataset, we explore cost distributions, variations by state, and identify trends and outliers.
 
